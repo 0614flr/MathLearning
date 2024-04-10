@@ -1,0 +1,14 @@
+D:\riderproject\ScreamConceded\ThreadPool\bin\Debug\net7.0\ThreadPool.exe
+D:\riderproject\ScreamConceded\ThreadPool\bin\Debug\net7.0\ThreadPool.deps.json
+D:\riderproject\ScreamConceded\ThreadPool\bin\Debug\net7.0\ThreadPool.runtimeconfig.json
+D:\riderproject\ScreamConceded\ThreadPool\bin\Debug\net7.0\ThreadPool.dll
+D:\riderproject\ScreamConceded\ThreadPool\bin\Debug\net7.0\ThreadPool.pdb
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfoInputs.cache
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.AssemblyInfo.cs
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.csproj.CoreCompileInputs.cache
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.dll
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\refint\ThreadPool.dll
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.pdb
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ThreadPool.genruntimeconfig.cache
+D:\riderproject\ScreamConceded\ThreadPool\obj\Debug\net7.0\ref\ThreadPool.dll

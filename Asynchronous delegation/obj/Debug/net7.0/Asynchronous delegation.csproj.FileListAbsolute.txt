@@ -1,0 +1,14 @@
+D:\riderproject\ScreamConceded\Asynchronous delegation\bin\Debug\net7.0\Asynchronous delegation.exe
+D:\riderproject\ScreamConceded\Asynchronous delegation\bin\Debug\net7.0\Asynchronous delegation.deps.json
+D:\riderproject\ScreamConceded\Asynchronous delegation\bin\Debug\net7.0\Asynchronous delegation.runtimeconfig.json
+D:\riderproject\ScreamConceded\Asynchronous delegation\bin\Debug\net7.0\Asynchronous delegation.dll
+D:\riderproject\ScreamConceded\Asynchronous delegation\bin\Debug\net7.0\Asynchronous delegation.pdb
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.GeneratedMSBuildEditorConfig.editorconfig
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.AssemblyInfoInputs.cache
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.AssemblyInfo.cs
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.csproj.CoreCompileInputs.cache
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.dll
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\refint\Asynchronous delegation.dll
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.pdb
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\Asynchronous delegation.genruntimeconfig.cache
+D:\riderproject\ScreamConceded\Asynchronous delegation\obj\Debug\net7.0\ref\Asynchronous delegation.dll
