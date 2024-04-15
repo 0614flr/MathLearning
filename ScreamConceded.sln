@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Review", "Review\Review.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmllearning", "Xmllearning\Xmllearning.csproj", "{18F3C244-C1A7-40C3-97D6-806D27E16E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeKeeper", "TimeKeeper\TimeKeeper.csproj", "{AFD01894-86F2-492A-8B27-57C19A51BDBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{18F3C244-C1A7-40C3-97D6-806D27E16E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F3C244-C1A7-40C3-97D6-806D27E16E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F3C244-C1A7-40C3-97D6-806D27E16E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD01894-86F2-492A-8B27-57C19A51BDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD01894-86F2-492A-8B27-57C19A51BDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD01894-86F2-492A-8B27-57C19A51BDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD01894-86F2-492A-8B27-57C19A51BDBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

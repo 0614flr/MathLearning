@@ -1,0 +1,14 @@
+D:\riderproject\ScreamConceded\T888\bin\Debug\net7.0\T888.exe
+D:\riderproject\ScreamConceded\T888\bin\Debug\net7.0\T888.deps.json
+D:\riderproject\ScreamConceded\T888\bin\Debug\net7.0\T888.runtimeconfig.json
+D:\riderproject\ScreamConceded\T888\bin\Debug\net7.0\T888.dll
+D:\riderproject\ScreamConceded\T888\bin\Debug\net7.0\T888.pdb
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.GeneratedMSBuildEditorConfig.editorconfig
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.AssemblyInfoInputs.cache
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.AssemblyInfo.cs
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.csproj.CoreCompileInputs.cache
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.dll
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\refint\T888.dll
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.pdb
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\T888.genruntimeconfig.cache
+D:\riderproject\ScreamConceded\T888\obj\Debug\net7.0\ref\T888.dll

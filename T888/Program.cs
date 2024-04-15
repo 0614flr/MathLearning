@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using T888;
 
-Console.WriteLine("Hello, World!");
+internal class MyClass
+{
+    public static void Main(string[] args)
+    {
+        var n = 12121;
+        var goodNum = new GoodNum();
+        goodNum.GoodNumber(n);
+    }
+}
